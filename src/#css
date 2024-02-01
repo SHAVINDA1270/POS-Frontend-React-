@@ -1,0 +1,17 @@
+/* styles.css */
+/* Common styles for all screen sizes */
+
+/* Styles for screens with a maximum width of 600px */
+@media (max-width: 600px) {
+  /* Adjust styles for smaller screens */
+}
+
+/* Styles for screens with a minimum width of 601px and a maximum width of 1024px */
+@media (min-width: 601px) and (max-width: 1024px) {
+  /* Adjust styles for medium-sized screens */
+}
+
+/* Styles for screens with a minimum width of 1025px */
+@media (min-width: 1025px) {
+  /* Adjust styles for larger screens */
+}
